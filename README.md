@@ -203,3 +203,11 @@ This section summarizes the terms stated in the source README and is not legal a
 ---
 
 Built as a learning project exploring prompt construction, few-shot examples, and LLM-powered text generation.
+
+---
+
+<p align="center">
+  ⭐ <b>Don't forget to star my repositories if you find them useful!</b>
+  <br><br>
+  Made by <b>Anjali Kamal</b>
+</p>
