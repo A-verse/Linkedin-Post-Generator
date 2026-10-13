@@ -194,15 +194,13 @@ The model is configured in `llm_helper.py`. The current code uses the model iden
 - Add an evaluation set to compare output relevance, style consistency, and length compliance.
 - Add deployment instructions once a deployment target is selected.
 
-## Attribution and usage terms
+## Credits & Acknowledgements
 
-This repository is based on the Codebasics LinkedIn post generator project. The original README included the notice **“Copyright (C) Codebasics Inc. All rights reserved.”** and additional terms stating that commercial use requires prior written permission and attribution must be preserved.
+This project explores AI-powered content generation using Python, LangChain, and Groq, building on ideas demonstrated in the Codebasics LinkedIn Post Generator.
 
-This section summarizes the terms stated in the source README and is not legal advice. Review the original project's license and obtain permission where required before redistributing or using the project commercially. Resetting Git history does not change the origin of the code or its applicable license terms.
+Created as a learning project focused on prompt engineering, few-shot prompting, and LLM integration.
 
----
-
-Built as a learning project exploring prompt construction, few-shot examples, and LLM-powered text generation.
+Please review the original project's license and applicable usage terms before redistributing or using the code commercially.
 
 ---
 
